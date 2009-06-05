@@ -1,10 +1,6 @@
-/*
-
-	template: Artificial Intelligence
-	author: luka cvrk (www.solucija.com)
-	
-*/
-
+html{
+  background-color: #EEEEEE; 
+}
 body { 
 	margin: 0; 
 	padding: 1px 0 10px; 
@@ -93,7 +89,7 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
 	width: 250px;
 	background: #8D9CAF url(/themes/ansuz_theme_wealth_unlimited/images/leftintrobg.gif) repeat-x;
 	color: #E5EAF2;
-	margin: 0 0 1px 0;
+	margin: 10px 0 1px 0;
 }
 	.login-block a { color: #fff; background: inherit; }
 	.login-block p { padding: 14px 15px; margin: 0; }
@@ -178,9 +174,10 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
     }
 /* RIGHT SIDE */
 
-#right {
+#right, .content-wrapper {
 	float: right;
 	width: 643px;
+	margin-top: 10px;
 }
 	.leftcol { 
 		float: left; 
@@ -219,7 +216,7 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
 		border:#ccc 1px solid;
 		margin: 0 0 8px 0;
 		}
-	.special {
+	.main-content, .special {
 		clear: both;
 		margin:0px 0 20px 0;	
 		padding: 5px 20px;
