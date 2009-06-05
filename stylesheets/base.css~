@@ -7,7 +7,7 @@
 
 body { 
 	margin: 0; 
-	padding: 0; 
+	padding: 1px 0 10px; 
 	background: #eee url(/themes/ansuz_theme_wealth_unlimited/images/bg.gif) repeat-x; 
 	font: normal .7em Tahoma, Verdana, Arial, Helvetica, Sans-Serif; 
 	line-height: 1.6em; 
@@ -47,9 +47,10 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
 }
 	#logo h1 { display: none; color: #000; background: #fff; }
 
-/* TOP RIGHT HORIZONTAL MENU */
-	
-#menu { 
+/* TOP RIGHT HORIZONTAL MENU */#navigation{
+  border-bottom: 1px solid #ccc;
+}
+#navigation ul { 
 	background: #fff url(/themes/ansuz_theme_wealth_unlimited/images/barul.gif) no-repeat bottom right; 
 	color: #808080; 
 	padding: 18px 1px 11px 0; 
@@ -58,29 +59,31 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
   right:0;
   top:20px;
 }
-	#menu li { 
+  #navigation h3 {
+    display: none;
+  }
+	#navigation ul li { 
 		padding: 14px 18px 14px 18px; 
 		color: #444; 
 		background: #fff url(/themes/ansuz_theme_wealth_unlimited/images/bar.gif) no-repeat bottom left; 
 		display: inline; 
 	}
-	#menu li.active { 
+	#navigation ul li.active { 
 		background: #fff url(/themes/ansuz_theme_wealth_unlimited/images/baractive.gif) no-repeat bottom left; 
 		color: #8D9CAF; 
 		font-weight: bold; 
 		padding: 14px 18px 14px 18px; 
 		margin: 0 1px 0 0; 
 	}
-	#menu li a { 
+	#navigation ul li a { 
 		background: #f8f8f8; 
 		color: #808080; 
 		text-decoration: none; 
 	} 	
-	#menu li a:hover { 
+	#navigation ul li a:hover { 
 		color: #000; 
 		background: #f8f8f8; 
-	} 	
-	.key { text-decoration: underline; } /* ACCESKEY UNDERLINED LETTER */
+	}
 
 /* LEFT INTRO SIDE */	
 
@@ -96,12 +99,12 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
 	#intro_left p { padding: 14px 15px; margin: 0; }
 
 /* login */
-p.login input{
+.login-block p input{
   background:#EEEEEE none repeat scroll 0 0;
   border:1px solid #444;
   color:#444444;
 }
-p.login .login-button{
+.login-block p .login-button{
   margin: 10px 0;
 }
 
