@@ -52,13 +52,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="192.7176"
-     inkscape:cy="992.71909"
+     inkscape:cx="189.56282"
+     inkscape:cy="994.5143"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1438"
-     inkscape:window-height="836"
+     inkscape:window-width="1270"
+     inkscape:window-height="835"
      inkscape:window-x="1280"
      inkscape:window-y="130" />
   <metadata
@@ -79,7 +79,7 @@
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3236"
-       width="256.3038"
+       width="297.73236"
        height="40.714287"
        x="23.214287"
        y="14.862181"
@@ -149,7 +149,7 @@
          y="318.85336"
          x="16.288054"
          id="tspan2393"
-         sodipodi:role="line">Wealth</tspan></text>
+         sodipodi:role="line">Wealth-</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30.66088867px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Medium'"
@@ -163,7 +163,7 @@
          sodipodi:role="line"
          id="tspan2385"
          x="69.068283"
-         y="46.384117">Wealth</tspan></text>
+         y="46.384117">Wealth-</tspan></text>
     <text
        id="text2387"
        y="46.002686"
@@ -177,7 +177,7 @@
          y="46.002686"
          x="158.1351"
          id="tspan2389"
-         sodipodi:role="line">Unlimited</tspan></text>
+         sodipodi:role="line"> Unlimited</tspan></text>
     <g
        id="g3181"
        transform="matrix(0.686747,0,0,0.686747,163.75215,115.02568)">
@@ -209,5 +209,19 @@
          inkscape:export-xdpi="150.26086"
          inkscape:export-ydpi="150.26086" />
     </g>
+    <text
+       inkscape:export-ydpi="150.26086"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-filename="/mnt/nas/bblaylock/website/images/logo.png"
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-size:16.97813606px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#637081;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Medium'"
+       x="289.35565"
+       y="46.008713"
+       id="text2786"><tspan
+         sodipodi:role="line"
+         id="tspan2788"
+         x="289.35565"
+         y="46.008713">.org</tspan></text>
   </g>
 </svg>
