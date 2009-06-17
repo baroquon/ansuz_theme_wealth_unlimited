@@ -1,9 +1,9 @@
-html{
+html{
   background-color: #EEEEEE; 
 }
 body { 
 	margin: 0; 
-	padding: 1px 0 10px; 
+	padding: 1px 0 10px;
 	background: #eee url(/themes/ansuz_theme_wealth_unlimited/images/bg.gif) repeat-x; 
 	font: normal .7em Tahoma, Verdana, Arial, Helvetica, Sans-Serif; 
 	line-height: 1.6em; 
@@ -43,7 +43,8 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
 }
 	#logo h1 { display: none; color: #000; background: #fff; }
 
-/* TOP RIGHT HORIZONTAL MENU */#navigation{
+/* TOP RIGHT HORIZONTAL MENU */
+#navigation{
   border-bottom: 1px solid #ccc;
 }
 #navigation ul { 
@@ -208,8 +209,8 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
   	    width:140px;
   	    margin:0 auto;
   	  }
-	  
-	.rightcol { 
+	 
+	.rightcol {
 		float: right; 
 		padding: 10px 15px;
 		width: 285px; 
@@ -218,7 +219,7 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
 		}
 	.main-content, .special {
 		clear: both;
-		margin:0px 0 20px 0;	
+		margin:0px 0 20px 0;
 		padding: 5px 20px;
 		border: 1px solid #ccc;
 		background: #ffe;
@@ -254,7 +255,11 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(/themes/an
   #hor-minimalist-b tbody tr:hover td {
     color:#000099;
   }
-  
+
 /* FOOTER */
 
 #footer { clear: both; padding: 5px; border-top: 1px solid #ccc; }
+
+strong{
+  font-weight: 600;
+}
